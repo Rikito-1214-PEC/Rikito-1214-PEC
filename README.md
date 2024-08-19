@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rikito-1214-PEC
+- 👋 Hi, I’m @"力人"-1214-PEC
 - 👀 I’m interested in ... system construction technology of IoT System
 - 🌱 I’m currently learning ...Python Code
 - 💞️ I’m looking to collaborate on ... Nothing
